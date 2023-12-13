@@ -1,0 +1,129 @@
+/* start header part */
+.navbar{
+    margin-top: 41px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+  .navbar .logo{
+    max-width: 79px;
+  }
+  .navbar_right{
+    display: flex;
+    align-items: center;
+    gap: 172px;
+  }
+  .navbar_right ul{
+    display: flex;
+    gap: 40px;
+  }
+  .navbar_right ul li{
+    list-style: none;
+  }
+  .navbar_right ul li a{
+    color: #150101;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .navbar_right ul li a:hover{
+    color: #D23166;
+    transition: all .5s;
+  }
+  .btn_navbar{
+    border-radius: 5px;
+  background: #D23166;
+  padding: 14px 50px;
+  cursor: pointer;
+  }
+  .btn_navbar:hover{
+    background: #af2251;
+    transition:  all .5s;
+  }
+  .btn_navbar a{
+    text-decoration: none;
+   
+    color: #FAFAFA;
+  font-family: Hind Madurai;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  }
+  .header_part{
+    margin-top: 196px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .header_text_part h5{
+    color: #0F0101;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 1.4px;
+  }
+  .header_text_part h1{
+    width: 665px;
+    color: #0F0101;
+  font-family: Fredoka;
+  font-size: 57.33px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120.5%;
+  }
+  h1 span{
+    color: #D23166;
+  }
+  .header_part p{
+    max-width: 523px;
+    color: #0F0101;
+  font-family: Hind Madurai;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+  opacity: 0.6;
+  margin-top: 6px;
+  margin-bottom: 35px;
+  }
+  .header_btn{
+    max-width: 165px;
+  }
+  .header_img_part{
+    position: relative;
+  }
+  .header_img_part .iceCream{
+    max-width: 579px;
+    position: absolute;
+    top: -302px;
+    left: -500px;
+  }
+  .header_img_part .milk{
+    max-width: 851px;
+    position: absolute;
+    top: -180px;
+    left: -670px;
+  }
+  .shaow{
+    position: absolute;
+    top: 325px;
+    left: -405px;
+  }
+  .circle{
+    position: absolute;
+    top: -30px;
+    left: -400px;
+    z-index: -1;
+    width: 360px;
+    height: 360px;
+    background: #f9dae4;
+    border-radius: 50%;
+  }

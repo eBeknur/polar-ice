@@ -1,0 +1,59 @@
+.simple{
+    padding-top: 90px;
+    padding-bottom: 150px;
+}
+.simple_part{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.simple_right h2{
+    max-width: 621px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 44.2px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.simple_right p{
+    max-width: 607px;
+    color: #0F0101;
+    margin-top: 20px;
+    margin-bottom: 31px;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.18px;
+opacity: .6;
+}
+.about{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 16px;
+}
+.select{
+    max-width: 16px;
+    height: 12px;
+}
+.about_img{
+    background: #fff;
+    padding: 9px 7px;
+}
+.about h5{
+    color: #000;
+font-family: Roboto;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.company{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    margin-top: 37px;
+}

@@ -1,0 +1,38 @@
+.cards_section{
+    margin-top: 290px;
+    background: #fff;
+    padding-top: 133px;
+    padding-bottom: 128px;
+  }
+  .cards{
+    display: flex;
+    justify-content: space-between;
+  }
+  .img_card{
+    max-width: 51px;
+    margin: 0 auto;
+  }
+  .text_card_part{
+    text-align: center;
+  }
+  .text_card_part h4{
+    color: #000;
+  font-family: Hind Madurai;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+    margin-top: 24px;
+    margin-bottom: 9px;
+  }
+  .text_card_part p{
+    max-width: 198px;
+    color: #000;
+  text-align: center;
+  font-family: Hind Madurai;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  opacity: 0.6;
+  }

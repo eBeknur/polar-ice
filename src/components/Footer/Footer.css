@@ -1,0 +1,120 @@
+.footer{
+    padding-top: 70px;
+    padding-bottom: 104px;
+    background: #0A0808;
+}
+.footer_part{
+    display: flex;
+    gap: 132px;
+}
+.address{
+    display: flex;
+    gap: 37px;
+}
+.address p{
+    max-width: 207px;
+    color: #FFF;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 139.687%; /* 16.762px */
+letter-spacing: 0.12px;
+margin-top: 9px;
+margin-bottom: 25px;
+opacity: .7;
+}
+.address h5{
+    color: #FFF;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.icons{
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.home{
+    margin-top: 66px;
+}
+.home ul li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+.home ul li a{
+    color: #FFF;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+opacity: .7;
+text-decoration: none;
+}
+.home ul li a:hover{
+    opacity: 1;
+    transition: all .5s;
+}
+
+.middle{
+    margin-top: 68px;
+}
+.middle ul li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+.middle ul li a{
+    color: #FFF;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+opacity: .7;
+text-decoration: none;
+}
+.middle ul li a:hover{
+    opacity: 1;
+    transition: all .5s;
+}
+.newsletter{
+    margin-top: 60px;
+}
+.newsletter h5{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.enter_footer{
+    max-width: 388px;
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 18px;
+    background: #0A0808;
+}
+.enter_footer input{
+    border-radius: 5px;
+    width: 100%;
+    outline: 0;
+    border: 2px solid #D64374;
+    padding: 20px 0px 20px 32px;
+    background: #0A0808;
+    color: white;
+}
+.footer_btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tolovlar{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
